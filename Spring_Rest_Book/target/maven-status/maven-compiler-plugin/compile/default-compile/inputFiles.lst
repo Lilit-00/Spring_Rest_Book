@@ -1,0 +1,7 @@
+/home/lilith/Downloads/Spring_Rest_Book/src/main/java/org/example/spring_rest_book/SpringRestBookApplication.java
+/home/lilith/Downloads/Spring_Rest_Book/src/main/java/org/example/spring_rest_book/endpoint/AuthorEndpoint.java
+/home/lilith/Downloads/Spring_Rest_Book/src/main/java/org/example/spring_rest_book/entity/Author.java
+/home/lilith/Downloads/Spring_Rest_Book/src/main/java/org/example/spring_rest_book/entity/Book.java
+/home/lilith/Downloads/Spring_Rest_Book/src/main/java/org/example/spring_rest_book/entity/Language.java
+/home/lilith/Downloads/Spring_Rest_Book/src/main/java/org/example/spring_rest_book/repository/AuthorRepository.java
+/home/lilith/Downloads/Spring_Rest_Book/src/main/java/org/example/spring_rest_book/repository/BookRepository.java

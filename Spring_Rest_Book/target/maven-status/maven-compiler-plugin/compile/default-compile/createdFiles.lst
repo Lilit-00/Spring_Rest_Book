@@ -1,0 +1,7 @@
+org/example/spring_rest_book/entity/Language.class
+org/example/spring_rest_book/entity/Book.class
+org/example/spring_rest_book/entity/Author.class
+org/example/spring_rest_book/endpoint/AuthorEndpoint.class
+org/example/spring_rest_book/repository/BookRepository.class
+org/example/spring_rest_book/repository/AuthorRepository.class
+org/example/spring_rest_book/SpringRestBookApplication.class
